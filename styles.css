@@ -56,7 +56,7 @@ html {
 	scroll-behavior: smooth;
 }
 
-/* Universal */
+/* Utility */
 .container {
 	width: 100%;
 	max-width: calc(var(--container) + var(--site-pad) + var(--site-pad));
