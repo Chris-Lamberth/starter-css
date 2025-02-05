@@ -1,7 +1,7 @@
 /* Variables */
 :root {
 	--site-pad: 2rem;
-  --container: 62rem;
+	--container: 62rem;
 }
 
 /* Reset */
@@ -22,14 +22,14 @@ html {
 
 body {
 	min-height: 100vh;
-	line-height: 1.5; 
+	line-height: 1.5;
 }
 
 img,
 video {
 	max-width: 100%;
 	height: auto;
-	display: block; 
+	display: block;
 }
 
 button,
@@ -48,8 +48,8 @@ button {
 input,
 textarea,
 select {
-	width: 100%; 
-	min-width: 0; 
+	width: 100%;
+	min-width: 0;
 }
 
 html {
